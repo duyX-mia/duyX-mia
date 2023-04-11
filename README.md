@@ -50,6 +50,8 @@ If you're interested in working together, please don't hesitate to reach out to 
 
 I believe that well-written code is essential for creating professional, efficient, and maintainable projects. While I strive to make all of my code as clean and organized as possible, please understand that some of my projects may appear messy or unfinished.
 
-As a "fresher" in the programming world, I am always looking for ways to improve my skills and knowledge. Some of my projects may be experimental or serve as a way for me to demonstrate what I have learned so far. However, for projects that are intended to be used professionally or by others, I will ensure that the code is clean and easy to understand (note the main only)
+As a "fresher" in the programming world, I am always looking for ways to improve my skills and knowledge. Some of my projects may be experimental or serve as a way for me to demonstrate what I have learned so far. 
+
+However, for projects that are intended to be used professionally or by others, I will ensure that "my code" i contribute clean and easy to understand (note the main gist only)
 
 Thank you for taking the time to view my projects and I welcome any feedback or suggestions you may have.
