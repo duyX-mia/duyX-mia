@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning ASP.NET core, C#
 
-💬 Ask me about ASP.NET core, C#, python, javascript
+💬 Ask me about C# (ASP.NET core), python, javascript
 
 📫 How to reach me 123duycute@gmail.com
 
